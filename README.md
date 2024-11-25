@@ -52,6 +52,7 @@ The game was tested for:
 ---
 ## Screenshots
 ![{DEAE51DD-85C0-482A-9643-0F0597ECE5B8}](https://github.com/user-attachments/assets/debf8303-3577-4594-801c-74233ab88e2f)
+![{6B203399-F5F0-4EC7-A9C8-222B9F0055FE}](https://github.com/user-attachments/assets/0a9c8207-64d3-469c-a8d0-195953d2354e)
 
 ---
 ## Author
