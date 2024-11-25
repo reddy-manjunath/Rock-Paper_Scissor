@@ -53,6 +53,7 @@ The game was tested for:
 ## Screenshots
 ![{DEAE51DD-85C0-482A-9643-0F0597ECE5B8}](https://github.com/user-attachments/assets/debf8303-3577-4594-801c-74233ab88e2f)
 
+---
 ## Author
 **[Reddy Manjunath]**  
 Feel free to reach out for feedback or suggestions!  
