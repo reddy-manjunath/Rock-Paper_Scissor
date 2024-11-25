@@ -42,7 +42,16 @@ The game was tested for:
 3. **Theme Customization**: Include options for different themes or animations.
 
 ---
+## How to run game
+1. go to terminal and run python rockpaperscissor.py
+2. you can play game by key tappings
+3. R-Rock
+4. P-Paper
+5. S-Scissor
 
+---
+## Screenshots
+![{DEAE51DD-85C0-482A-9643-0F0597ECE5B8}](https://github.com/user-attachments/assets/debf8303-3577-4594-801c-74233ab88e2f)
 
 ## Author
 **[Reddy Manjunath]**  
